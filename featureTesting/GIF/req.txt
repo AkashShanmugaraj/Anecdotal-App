@@ -1,0 +1,4 @@
+Install
+    1. PyCharm/VS Code
+    2. QT Designer
+    3. Adobe XD
